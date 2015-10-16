@@ -1,4 +1,4 @@
-flickerstrip.com
+homeautomaton.com
 ==============
 
-The website for Flickerstrip, the LED strip that lets you build your own light show.
+The website for Home Automaton, the company that brought you Reflowster and Flickerstrip.
